@@ -2,8 +2,8 @@
 
 namespace Mahmoud217TR\Cacheable\Tests;
 
-use Orchestra\Testbench\TestCase as Orchestra;
 use Mahmoud217TR\Cacheable\CacheableServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {

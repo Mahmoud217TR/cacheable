@@ -15,6 +15,7 @@ use Illuminate\Support\Facades\Facade;
  * @method static bool isCacheableModel(Illuminate\Database\Eloquent\Model|string $model)
  * @method static bool isCacheableClass(object|string $class)
  * @method static mixed config(string $key = null)
+ *
  * @see \Mahmoud217TR\Cacheable\Cacheable
  */
 class Cacheable extends Facade
